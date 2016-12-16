@@ -24,13 +24,14 @@
 9.	如何保证一个后台服务不被杀死；比较省电的方式是什么
 10.	如何通过广播拦截和abort一条短信；广播是否可以请求网络；广播引起anr的时间限制
 11.	进程间通信，AIDL
-12.	Handler机制及底层实现
+[12.	Handler机制及底层实现](https://github.com/crazyandcoder/job_interview/blob/master/articles/Handler%E6%9C%BA%E5%88%B6.md)
 13.	Binder机制及底层实现
 14.	ApplicationContext和ActivityContext的区别
 15.	一张Bitmap所占内存以及内存占用的计算
 16.	对于应用更新这块是如何做的？(灰度，强制更新，分区域更新)
 17.	混合开发，RN，weex，H5，小程序(做Android的了解一些前端js等还是很有好处的)
 18.	说一款你认为当前比较火的应用并设计(直播APP)
+[19.	内存泄漏的原因](https://github.com/crazyandcoder/job_interview/blob/master/articles/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E5%8E%9F%E5%9B%A0.md)
 
 
 ----------
@@ -49,6 +50,12 @@
 10.	抽象类与接口的区别；应用场景；抽象类是否可以没有方法和属性
 11.	静态属性和静态方法是否可以被继承？是否可以被重写？原因
 12.	修改对象A的equals方法的签名，那么使用HashMap存放这个对象实例的时候，会调用哪个equals方法
+[13.	ArrayList和LinkedList的区别](https://github.com/crazyandcoder/job_interview/blob/master/articles/ArrayList%E5%92%8CLinkedList%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+[14. Iterator和Enumeration的不同](https://github.com/crazyandcoder/job_interview/blob/master/articles/Iterator%E5%92%8CEnumeration%E7%9A%84%E4%B8%8D%E5%90%8C.md)
+[15. hashmap和hashtable的不同](https://github.com/crazyandcoder/job_interview/blob/master/articles/hashmap%E5%92%8Chashtable%E7%9A%84%E4%B8%8D%E5%90%8C.md)
+[16. 接口的注意点](https://github.com/crazyandcoder/job_interview/blob/master/articles/%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%B3%A8%E6%84%8F%E7%82%B9.md)
+
+
 
 ----------
 
