@@ -24,7 +24,9 @@
 9.	如何保证一个后台服务不被杀死；比较省电的方式是什么
 10.	如何通过广播拦截和abort一条短信；广播是否可以请求网络；广播引起anr的时间限制
 11.	进程间通信，AIDL
+
 [12.	Handler机制及底层实现](https://github.com/crazyandcoder/job_interview/blob/master/articles/Handler%E6%9C%BA%E5%88%B6.md)
+
 13.	Binder机制及底层实现
 14.	ApplicationContext和ActivityContext的区别
 15.	一张Bitmap所占内存以及内存占用的计算
