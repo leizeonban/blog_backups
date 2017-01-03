@@ -26,7 +26,6 @@
 11.	进程间通信，AIDL
 
 [12.	Handler机制及底层实现](https://github.com/crazyandcoder/job_interview/blob/master/articles/Handler%E6%9C%BA%E5%88%B6.md)
-
 13.	Binder机制及底层实现
 14.	ApplicationContext和ActivityContext的区别
 15.	一张Bitmap所占内存以及内存占用的计算
