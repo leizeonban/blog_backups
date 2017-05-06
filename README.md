@@ -1,18 +1,11 @@
 
-**欢迎加入轮子学习(android)交流群**
-
-群名称：**轮子学习(android)**
-群   号：**539175620**
-
-![](http://upload-images.jianshu.io/upload_images/676457-f7dfbf70988234c2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 > 不定期更新维护中....
 
 
 ----------
 
 
-###**Android部分**
+### **Android部分**
 1.	View的绘制流程；自定义View如何考虑机型适配；自定义View的事件分发机制；View和ViewGroup分别有哪些事件分发相关的回调方法；自定义View如何提供获取View属性的接口；
 2.	Art和Dalvik对比；虚拟机原理，如何自己设计一个虚拟机(内存管理，类加载，双亲委派)；JVM内存模型及类加载机制；内存对象的循环引用及避免
 3.	内存回收机制与GC算法(各种算法的优缺点以及应用场景)；GC原理时机以及GC对象；内存泄露场景及解决方法；OOM的避免及解决方法
