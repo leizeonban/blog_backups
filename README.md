@@ -131,6 +131,10 @@
 ----------
 
 ### 关于我
+
 github: [https://github.com/crazyandcoder](https://github.com/crazyandcoder)
-博客 http://crazyandcoder.github.io/
+
+博客 [http://crazyandcoder.github.io/](http://crazyandcoder.github.io/)
+
 掘金：[https://juejin.im/user/56b96af96240b8005865df59/share](https://juejin.im/user/56b96af96240b8005865df59/share)
+
