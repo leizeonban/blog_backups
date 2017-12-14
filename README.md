@@ -1,140 +1,115 @@
+### **说明** 
 
-## 杭州找Android工作的点点滴滴
+> 更新时间 2017.12.14
 
-## 写在前面的话
+本页面展示个人的知识体系总结，详情请查看博客 [——> 传送门](http://crazyandcoder.github.io/)
 
-
-我从14年毕业到现在一直待一个三线城市，就用 C 市 代替吧。地方很小，适合居住，但不适合 it 开发，城市很小、圈子很小，it 不发达，想要在 it 上面有出路的还是得去北上广深大城市。我在这个城市呆了三年左右由于自己的一些私事所以趁机就出来想找个大城市呆呆，原本打算去其他城市的，后来稀里糊涂的来到了杭州，在朋友这呆了半个月，直到找到工作。我是 17 年 3 月 25 号就辞职了，递交了辞职申请之后然后就跑去云南玩了一圈之后才想到要找工作的，然后就来杭州了，以上就是大概背景，接下来就写写关于在杭州找一份关于 Android 开发的工作中所遇到的人和事，不看不知道，原来世界真的很大各种人都有，果真印证了一句话：**林子大了，什么鸟都有**。
-
-## 简历
-
-面试之前，当然得准备一份简历啦，我的简历是当年刚毕业的时候写的一份简历，这里面用到的模板是 [乔布简历](http://cv.qiaobutang.com/) 里面的简历模板不错（哈哈，这不是给它打广告的，我一直用这个，感觉不错就推荐了）。简历模板找到了，下面就是内容了，俗话说，要想找到好工作，一个好的简历必不可少的。因为公司越大的话，投递的人肯定越多，HR 筛选的时间就少了，所以简历有亮点就能打动HR，这样才能有面试资格，有了这个面试资格后才有可能得到这个工作机会，有的人写了简历投给公司后，就像石沉大海一样，毫无音讯，所以，如果有小伙伴，投了简历但是没有回应，不妨修改一下简历，但这里修改简历不是要你去造假，这里面有个梗，待会说~，写完了简历，接下来就是投简历了，有几个渠道可以找工作：
-
-
-* 内推，内推的质量是最高的，但也是最难的。
-* 第三方招聘网站，如 [拉钩](https://www.lagou.com/?utm_source=m_cf_cpt_baidu_pc)、[51Job](http://www.51job.com/?from=baidupz)、[智联招聘](http://ts.zhaopin.com/jump/index.html?sid=121113803&site=pzzhubiaoti1)、[猎聘同道](https://www.liepin.com/?mscid=s_00_pz1) 等。
-
-
-就以我而言，使用上面四种方式进行对比，拉勾网上面公司质量还是不错的，但是HR筛选简历这关有点问题，里面给出的筛选不通过理由都是一样的。51job 和智联招聘两者类似，都差不多，我就是在智联招聘上面找到工作的。猎聘同道里面猎头比较多，我第一次面试就是上面的猎头进行联系的。总的而言，前三个多投投简历，重点放在智联招聘和拉勾网上面，其他也可以稍微投投~
-
-## 面试
-
-经过上面简历这个步骤，相信我们能够接到一些公司的面试邀请的，在接受公司面试邀请之前，我们得复习面试中所遇到的一些基本知识，主要有Java和Android这两方面的面试知识。
-
-
-* Java 基础知识，主要有面向对象三大特性及理解，接口与抽象类、泛型、线程池、集合框架、设计模式、常用算法等知识点。
-* Android 知识，主要就是一些常用的知识，待会儿给出一些链接。
-
-以上是专业知识准备，还得准备一些其他人文方面的知识，譬如自我介绍啊、兴趣爱好啊之类的。
-
-
-有了上面的知识基础，我们就可以上面进行面对面接触啦，我总共大概用了 10 天左右时间，面试了大概 15 家公司，其中有三家是明确拒绝我的，还有四家是我明确拒绝他的，还有几家我对比了一下，然后选择了一个性价比比较高的公司的。在这些公司里面，花样百出，有的公司不知道怎么想的，想花一年工作经验的工资找一个三年工作经验的人，这是典型的想得美。还有的公司忽悠你，就是变相的让你加班，我问他工资能给多少，他说看你能力而定，能力多大，工资多高，我说具体个数，如果我面试通过了，你能不能给我准确的数，他就不说话了，而且是早上 10 点上班，晚上 9 点下班，呵呵，不评价，忽悠应届生呢吧~
-
-印象最深的一家公司，地址是 [https://www.lagou.com/gongsi/191783.html](https://www.lagou.com/gongsi/191783.html) 没错，里面的评论就是我评论的，刚进去，给人的感觉，公司环境还不错，宽敞明亮的，然后 HR 给了我 A4 纸，正反面，填写个人的信息，详细程度令人咋舌。好不容易花了几分钟填完之后又给我整整三张面试题，没错，是整整三张，题目很多很多，让我做，哎，我也好忽悠，第一次碰到这种情况，所以就按部就班老老实实的做完了，花了 20 分钟，做之前还把我的手机给收了，娘的，当成学校考试呢啊？？？更奇葩的还在后面，做完面试题目之后，就开始了面试，那个面试官好像是子公司分责人吧，类似于总经理吧，看着我的简历，竟然问我有没有造假？？？WTF！！！还跟我说，他要想查的话很快就能查到了，我就无语了，我的简历竟然能让他怀疑我造假了，我的简历是有多雷人啊！！！接着就开始问我各种知识点，回答出来95以上吧，有几个平时没接触过，所以不知道怎么回答，最后面试结束了，没什么问题就开始讨论工资的问题，他看了我的期望薪水，问我，为什么翻了一倍？我跟他说，我以前呆的城市，非常小，基本连三线都不到，房价只有几千块，跟杭州能比吗？？？然后他就无语了，我就问他，为什么杭州房价比 C 房价高出 4~5 倍，你还想工资都差不多？？？面试简章上面的薪水范围跟实际给出的范围严重不符，我估计这家公司就是想把人先忽悠过去，然后开始各种压价，这太他么的可耻了，最后果断被我给拒绝了，而且是当面拒绝，没有留有情面，给再多也不会去的，这是情怀问题，感觉对程序员不尊重！！！以后大伙找公司，注意这家公司，过来人的经验~
-
-上面就是我遇到的印象比较深刻的一家公司。接下来我们就来总结一下面试过程中提出的各种问题，如果有需要的小伙伴可以参考一下。
-
-## 面试问题
-**关于人文方面的问题**
-
-
-* 先介绍一下你自己？
-* 你有什么兴趣爱好？
-* 你平常空闲时间会干什么，看哪些书，有什么心得体会？
-* 如果面试过了的话，就会问你的期望薪资，然后就开始各种压榨你。
-
-**关于 Java 方面的问到的知识点**
-
-* 面向对象的三大特性，如何理解其中的多态？
-* JVM 的内存模型？
-* String、StringBuilder、StringBuffer 的区别，StringBuffer 是如何实现线程安全的？
-* 了解过 HTTP 吗？说说它的特点，它里面有哪些方法，有了解过吗？知道 HTTPS 吗？这两者有什么区别？
-* 你平常是怎么进行加密的？MD5 加密是可逆的吗？
-* 接口与抽象类的区别？static 方法可以被覆盖吗？为什么？
-* 创建线程的方式，他们有什么区别？知道线程池吗？说说对线程池的理解？
-* 你了解过 Java 的四种引用吗？分别代表什么含义，他们有什么区别？
-* Java 中关于 equals 和 hashcode 的理解？
-* 关于 Java 中深拷贝和浅拷贝的区别？
-* 简单的说下 Java 的垃圾回收？
-* 了解过 Java 的集合吗？说说 HashMap 的底层实现原理？ArrayList 和 LinkedList 的区别？Java 集合中哪些是线程安全的？
-* 如何实现对象的排序？
-* 知道 ThreadLocal 吗？说说对它的理解？
-* 在你写代码的过程中有使用过设计模式吗？你知道哪些？为什么要这样用，能解决什么问题？
-* 了解注解吗？了解反射吗？为什么要使用反射？
-* 数据结构中常用排序算法？
-
-
-以上就是关于 Java 所问道的知识点，记得不是太清楚了，待补充。。。
-
-
-**关于 Android 方面的问到的知识点**
-
-
-* Activity 的生命周期是什么？ onPause 和 onStop 有什么区别？
-* Android 五种布局的性能对比？
-* Android 四大组件是什么？分别说说对它们的理解？
-* 关于 Service 的理解？它的启动方式有什么区别？
-* 了解 fragment 吗？说说你对它的理解？
-* 自定义过 view 吗？它的步骤是什么？说说你自定义 view 过程中出现的问题，以及是如何解决的？
-* 刷新 view 的几种方式，他们有什么区别？
-* Android 实现数据存储的几种方式？
-* 如何实现 Android 中的缓存的，通过使用第三方库和自定义来分别说明一下缓存技术的实现？
-* 如何实现 Activity 与 fragment 的通信？
-* Android 5.0、6.0、7.0 新特性？
-* Android 中的动画分类？
-* 你以前是如何进行屏幕适配的？
-* 说说 Activity 创建过程？
-* Android 中如何与 JS 交互的？
-* 了解 APP 的启动流程？
-* 你知道哪些图片加载库？他们有什么区别？ImageLoader 的内部缓存机制是什么？是如何实现的？
-* Android 中是如何实现异步通信的？
-* 说说 Handler 内部实现原理？
-* 使用过 AsyncTask 吗？说说它的内部实现原理？它有什么缺陷？如何改进？
-* 知道 JNI、Binder 吗？说说你对它们的理解？
-* 如何实现进程间的通信？
-* 说说 Android view 和 viewGroup 的事件分发机制？
-* 你开发过程中使用到了哪些第三方库？了解过他们的源码吗？
-* 你了解广播吗？它与 EventBus 有什么区别？能互相实现吗？
-* 你们网络请求是如何实现的？知道 Volley 吗？内部实现流程是什么？它与 OKHttp 有什么区别？
-* 你了解哪些第三方功能？知道推送吗？它的原理是什么？
-* 接触过 MVP 模式吗？说说看对它的认识？
-* 知道 Android 中的多渠道打包吗？
-* Android 签名机制的原理？反编译解压后的文件夹所包含的内容有哪些？
-* 你了解过模块化、组件化开发吗？
-* 开始开发 APP 如何进行架构？
-* APP 工程模块是如何划分的？你是如何进行封装的？
-* APP 是如何进行优化的？知道 OOM 吗？如何解决内存泄漏？
-
-以上就是我这次面试过程中涉及到的一些关于Android 方面的知识点，有点模糊了，全凭记忆，待补充....
-
-----------
-
-经过上面的几个阶段，历时半个月，最终我找到了一家比较心仪的公司，整体的性价比个人感觉比较高，符合我的期望。以上便是我这次来杭州面试的点点滴滴，希望对有需求的小伙伴一些帮助~
-
-请记住一点，薪水并不是唯一所要关注的重点，关键还得看看公司环境、领导、同事相处愉快不愉快？要不然给你再多的薪水，每天干的不爽，那不是很悲哀？？？
+每天学习，每天code。
 
 
 
-最后我会提供一些我面试准备阶段复习所用到的一些基础知识点链接，面试必问的一些基础原理一定得知道，不能含糊，要不然面试过程中必定会露马脚。有需要的小伙伴可以参考一下。
+
+### **关于作者**
+
+[GitHub](https://github.com/crazyandcoder)、[个人博客](http://crazyandcoder.github.io/)、[掘金](https://juejin.im/user/56b96af96240b8005865df59)、[CSDN](http://blog.csdn.net/liji_xc)、[sina微博](https://weibo.com/crazyandcoder?sudaref=crazyandcoder.github.io&display=0&retcode=6102&is_all=1)...
 
 
-**相关链接**
+### **知识体系**
 
-[ Java面试题集](http://blog.csdn.net/dd864140130/article/details/55833087)
+#### **一、Java部分**
 
-[Android 名企面试题及涉及知识点整理。](https://github.com/Mr-YangCheng/ForAndroidInterview)
+更新时间 2017.12.14
+
+**1.1 Java SDK源码部分**
+
+ 1. [ubuntu编译并调试OpenJDK8源码实践](http://crazyandcoder.github.io/2017/11/28/ubuntu%E7%BC%96%E8%AF%91%E5%B9%B6%E8%B0%83%E8%AF%95OpenJDK8%E6%BA%90%E7%A0%81%E5%AE%9E%E8%B7%B5/)
+ 2.  [Java集合框架分析-概述](http://crazyandcoder.github.io/2017/03/23/Java-%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-%E6%A6%82%E8%BF%B0/)
+ 2. [Java集合框架分析-LinkedHashMap](http://crazyandcoder.github.io/2017/03/15/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-LinkedHashMap/)
+ 3. [java集合框架分析-HashMap](http://crazyandcoder.github.io/2017/03/15/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-HashMap/)
+ 4. [Java集合框架分析-ArrayList](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-ArrayList/)
+ 5. [Java集合框架分析-LinkedList](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-LinkedList/)
+ 6. [Java集合框架分析-HashSet](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-HashSet/)
+ 7. [Java集合框架分析-Iterator](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-Iterator/)
 
 
-[40个 Android 面试题 ](http://www.devstore.cn/essay/essayInfo/7195.html)
+
+**1.2 Java常用知识点**
+
+ 8. [java String和StringBuilder、StringBuffer浅谈](http://crazyandcoder.github.io/2016/03/09/java%20String%E5%92%8CStringBuilder%E3%80%81StringBuffer%E6%B5%85%E8%B0%88/)
+ 8. [java 重写(Override)与重载(Overload)浅谈](http://crazyandcoder.github.io/2016/03/09/java%20%E9%87%8D%E5%86%99%28Override%29%E4%B8%8E%E9%87%8D%E8%BD%BD%28Overload%29%E6%B5%85%E8%B0%88/)
+ 9. [java 序列化和反序列化使用总结](http://crazyandcoder.github.io/2016/03/16/java%20%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
+ 10. [java 反射学习总结](http://crazyandcoder.github.io/2016/09/14/java%20%E5%8F%8D%E5%B0%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+ 11. [java 关键字synchronize学习](http://crazyandcoder.github.io/2016/10/14/java%20synchronize%E5%AD%A6%E4%B9%A0/)
+ 12. [java http学习总结](http://crazyandcoder.github.io/2016/10/20/android%20http%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+
+**1.3 设计模式Java实现**
+
+ 8. [Java设计模式概述](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%A6%82%E8%BF%B0/)
+ 9. [Java设计模式-工厂方法模式](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/)
 
 
-----------
+#### **二、Android部分**
 
-### 关于我
 
-github: [https://github.com/crazyandcoder](https://github.com/crazyandcoder)
 
-博客 [http://crazyandcoder.github.io/](http://crazyandcoder.github.io/)
+**2.1 Android 开源库实践**
 
-掘金：[https://juejin.im/user/56b96af96240b8005865df59/share](https://juejin.im/user/56b96af96240b8005865df59/share)
+ 1. [android 技能提高—library上传jCenter](http://crazyandcoder.github.io/2016/07/01/android%20library%E4%B8%8A%E4%BC%A0jCenter/)
+ 2. [android CityPickerViewV2.0重磅来袭](http://crazyandcoder.github.io/2017/08/22/CityPickerViewV2-0%E9%87%8D%E7%A3%85%E6%9D%A5%E8%A2%AD/)
+ 3. [TakePhotoV2.0.0发版](http://crazyandcoder.github.io/2017/11/11/TakePhotoV2-0-0%E5%8F%91%E7%89%88/)
+ 4.  [Android流式布局实现多行Checkbox功能](http://crazyandcoder.github.io/2017/12/14/Android%E6%B5%81%E5%BC%8F%E5%B8%83%E5%B1%80%E5%AE%9E%E7%8E%B0%E5%A4%9A%E8%A1%8CCheckbox%E5%8A%9F%E8%83%BD/)
+ 5. [android 自定义view+属性动画实现充电进度条](http://crazyandcoder.github.io/2016/12/06/android-%E8%87%AA%E5%AE%9A%E4%B9%89view-%E5%B1%9E%E6%80%A7%E5%8A%A8%E7%94%BB-%E5%85%85%E7%94%B5%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
+ 6. [android 自定义View实现波浪动画进度](http://crazyandcoder.github.io/2016/12/22/android-%E8%87%AA%E5%AE%9A%E4%B9%89View%E5%AE%9E%E7%8E%B0%E6%B3%A2%E6%B5%AA%E5%8A%A8%E7%94%BB%E8%BF%9B%E5%BA%A6/)
+
+
+**2.2 Android SDK源码学习**
+
+
+ 5. [Android源码阅读-编译8.0源码](http://crazyandcoder.github.io/2017/11/26/Android%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB-%E7%BC%96%E8%AF%918-0%E6%BA%90%E7%A0%81/)
+ 6. [android 异步通信机制Handler的分析与运用](http://crazyandcoder.github.io/2016/11/04/android%20%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6Handler%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+ 12. [android 关于关于子线程更新UI的一些事](http://crazyandcoder.github.io/2016/11/01/android%20%E5%85%B3%E4%BA%8E%E5%85%B3%E4%BA%8E%E5%AD%90%E7%BA%BF%E7%A8%8B%E6%9B%B4%E6%96%B0UI%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/)
+ 13. [Android view系统分析-setContentView](http://crazyandcoder.github.io/2017/02/04/Android-view%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90-setContentView/)
+ 14. [android 关于AsyncTask的理解与运用](http://crazyandcoder.github.io/2017/01/06/android-%E5%85%B3%E4%BA%8EAsyncTask%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E8%BF%90%E7%94%A8/)
+ 15. [Android 事件分发机制源码解析-view层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-view%E5%B1%82/)
+ 16. [android 事件分发机制源码解析-ViewGroup层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-ViewGroup%E5%B1%82/)
+
+
+
+
+
+**2.3 Android 第三方库源码分析**
+
+ 7. [android 消息传递机制进阶EventBus的深入探究](http://crazyandcoder.github.io/2017/04/18/android-%E6%B6%88%E6%81%AF%E4%BC%A0%E9%80%92%E6%9C%BA%E5%88%B6%E8%BF%9B%E9%98%B6EventBus%E7%9A%84%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%A9%B6/)
+ 8. [Android UIL图片加载缓存源码分析-内存缓存](http://crazyandcoder.github.io/2017/03/15/Android-UIL%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E5%AD%98%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98/)
+ 9. [Android UIL图片加载缓存源码分析-硬盘缓存](http://crazyandcoder.github.io/2017/03/15/Android-UIL%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E5%AD%98%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E7%A1%AC%E7%9B%98%E7%BC%93%E5%AD%98/)
+ 
+
+
+
+**2.3 Android 常用知识点**
+
+ 10. [android Shape及动画效果使用总结](http://crazyandcoder.github.io/2016/04/03/android%20Shape%E5%8F%8A%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
+ 11. [android imageview研究总结](http://crazyandcoder.github.io/2016/04/16/android%20imageview%E7%A0%94%E7%A9%B6%E6%80%BB%E7%BB%93/)
+ 12. [android 关于Bitmap压缩处理解析](http://crazyandcoder.github.io/2016/12/14/android%20%E5%85%B3%E4%BA%8EBitmap%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E8%A7%A3%E6%9E%90/)
+ 13. [Android输入键盘隐藏解决方案](http://crazyandcoder.github.io/2017/09/01/Android%E8%BE%93%E5%85%A5%E9%94%AE%E7%9B%98%E9%9A%90%E8%97%8F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
+
+
+
+
+#### **三、其他**
+
+**3.1 综合**
+
+ 1. [杭州找Android工作的点点滴滴](http://crazyandcoder.github.io/2017/05/22/%E6%9D%AD%E5%B7%9E%E6%89%BEAndroid%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%82%B9%E7%82%B9%E6%BB%B4%E6%BB%B4/)
+ 2. [Android面试题](https://github.com/crazyandcoder/job_interview)
+ 3. [hexo+github搭建属于自己的博客系统](http://crazyandcoder.github.io/2017/12/14/hexo-github%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/)
+ 4. [hexo 博客搭建—windows系统配置过程](http://crazyandcoder.github.io/2016/04/01/hexo%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E2%80%94windows%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E8%BF%87%E7%A8%8B/)
+ 5. [hexo 博客搭建—在不同的PC设备之间同步博客](http://crazyandcoder.github.io/2016/03/10/hexo%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E2%80%94%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84PC%E8%AE%BE%E5%A4%87%E4%B9%8B%E9%97%B4%E5%90%8C%E6%AD%A5%E5%8D%9A%E5%AE%A2/)
+
+
+
+
+
+ 
+
 
