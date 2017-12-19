@@ -35,17 +35,17 @@
 
 **1.2 Java常用知识点**
 
- 8. [java String和StringBuilder、StringBuffer浅谈](http://crazyandcoder.github.io/2016/03/09/java%20String%E5%92%8CStringBuilder%E3%80%81StringBuffer%E6%B5%85%E8%B0%88/)
- 8. [java 重写(Override)与重载(Overload)浅谈](http://crazyandcoder.github.io/2016/03/09/java%20%E9%87%8D%E5%86%99%28Override%29%E4%B8%8E%E9%87%8D%E8%BD%BD%28Overload%29%E6%B5%85%E8%B0%88/)
- 9. [java 序列化和反序列化使用总结](http://crazyandcoder.github.io/2016/03/16/java%20%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
- 10. [java 反射学习总结](http://crazyandcoder.github.io/2016/09/14/java%20%E5%8F%8D%E5%B0%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
- 11. [java 关键字synchronize学习](http://crazyandcoder.github.io/2016/10/14/java%20synchronize%E5%AD%A6%E4%B9%A0/)
- 12. [java http学习总结](http://crazyandcoder.github.io/2016/10/20/android%20http%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+ 1. [java String和StringBuilder、StringBuffer浅谈](http://crazyandcoder.github.io/2016/03/09/java%20String%E5%92%8CStringBuilder%E3%80%81StringBuffer%E6%B5%85%E8%B0%88/)
+ 2. [java 重写(Override)与重载(Overload)浅谈](http://crazyandcoder.github.io/2016/03/09/java%20%E9%87%8D%E5%86%99%28Override%29%E4%B8%8E%E9%87%8D%E8%BD%BD%28Overload%29%E6%B5%85%E8%B0%88/)
+ 3. [java 序列化和反序列化使用总结](http://crazyandcoder.github.io/2016/03/16/java%20%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
+ 4. [java 反射学习总结](http://crazyandcoder.github.io/2016/09/14/java%20%E5%8F%8D%E5%B0%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+ 5. [java 关键字synchronize学习](http://crazyandcoder.github.io/2016/10/14/java%20synchronize%E5%AD%A6%E4%B9%A0/)
+ 6. [java http学习总结](http://crazyandcoder.github.io/2016/10/20/android%20http%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
 
 **1.3 设计模式Java实现**
 
- 8. [Java设计模式概述](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%A6%82%E8%BF%B0/)
- 9. [Java设计模式-工厂方法模式](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/)
+ 1. [Java设计模式概述](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%A6%82%E8%BF%B0/)
+ 2. [Java设计模式-工厂方法模式](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/)
 
 
 #### **二、Android部分**
@@ -65,13 +65,14 @@
 **2.2 Android SDK源码学习**
 
 
- 5. [Android源码阅读-编译8.0源码](http://crazyandcoder.github.io/2017/11/26/Android%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB-%E7%BC%96%E8%AF%918-0%E6%BA%90%E7%A0%81/)
- 6. [android 异步通信机制Handler的分析与运用](http://crazyandcoder.github.io/2016/11/04/android%20%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6Handler%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
- 12. [android 关于关于子线程更新UI的一些事](http://crazyandcoder.github.io/2016/11/01/android%20%E5%85%B3%E4%BA%8E%E5%85%B3%E4%BA%8E%E5%AD%90%E7%BA%BF%E7%A8%8B%E6%9B%B4%E6%96%B0UI%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/)
- 13. [Android view系统分析-setContentView](http://crazyandcoder.github.io/2017/02/04/Android-view%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90-setContentView/)
- 14. [android 关于AsyncTask的理解与运用](http://crazyandcoder.github.io/2017/01/06/android-%E5%85%B3%E4%BA%8EAsyncTask%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E8%BF%90%E7%94%A8/)
- 15. [Android 事件分发机制源码解析-view层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-view%E5%B1%82/)
- 16. [android 事件分发机制源码解析-ViewGroup层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-ViewGroup%E5%B1%82/)
+ 1. [Android源码阅读-编译8.0源码](http://crazyandcoder.github.io/2017/11/26/Android%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB-%E7%BC%96%E8%AF%918-0%E6%BA%90%E7%A0%81/)
+ 2. [android 异步通信机制Handler的分析与运用](http://crazyandcoder.github.io/2016/11/04/android%20%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6Handler%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+ 3. [android 关于关于子线程更新UI的一些事](http://crazyandcoder.github.io/2016/11/01/android%20%E5%85%B3%E4%BA%8E%E5%85%B3%E4%BA%8E%E5%AD%90%E7%BA%BF%E7%A8%8B%E6%9B%B4%E6%96%B0UI%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/)
+ 4. [Android view系统分析-setContentView](http://crazyandcoder.github.io/2017/02/04/Android-view%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90-setContentView/)
+ 5. [android 关于AsyncTask的理解与运用](http://crazyandcoder.github.io/2017/01/06/android-%E5%85%B3%E4%BA%8EAsyncTask%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E8%BF%90%E7%94%A8/)
+ 6. [Android 事件分发机制源码解析-view层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-view%E5%B1%82/)
+ 7. [android 事件分发机制源码解析-ViewGroup层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-ViewGroup%E5%B1%82/)
+ 8. [Android Context源码分析](http://crazyandcoder.github.io/2017/12/19/Android-Context%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
 
 
@@ -79,19 +80,19 @@
 
 **2.3 Android 第三方库源码分析**
 
- 7. [android 消息传递机制进阶EventBus的深入探究](http://crazyandcoder.github.io/2017/04/18/android-%E6%B6%88%E6%81%AF%E4%BC%A0%E9%80%92%E6%9C%BA%E5%88%B6%E8%BF%9B%E9%98%B6EventBus%E7%9A%84%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%A9%B6/)
- 8. [Android UIL图片加载缓存源码分析-内存缓存](http://crazyandcoder.github.io/2017/03/15/Android-UIL%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E5%AD%98%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98/)
- 9. [Android UIL图片加载缓存源码分析-硬盘缓存](http://crazyandcoder.github.io/2017/03/15/Android-UIL%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E5%AD%98%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E7%A1%AC%E7%9B%98%E7%BC%93%E5%AD%98/)
+ 1. [android 消息传递机制进阶EventBus的深入探究](http://crazyandcoder.github.io/2017/04/18/android-%E6%B6%88%E6%81%AF%E4%BC%A0%E9%80%92%E6%9C%BA%E5%88%B6%E8%BF%9B%E9%98%B6EventBus%E7%9A%84%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%A9%B6/)
+ 2. [Android UIL图片加载缓存源码分析-内存缓存](http://crazyandcoder.github.io/2017/03/15/Android-UIL%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E5%AD%98%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98/)
+ 3. [Android UIL图片加载缓存源码分析-硬盘缓存](http://crazyandcoder.github.io/2017/03/15/Android-UIL%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E5%AD%98%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E7%A1%AC%E7%9B%98%E7%BC%93%E5%AD%98/)
  
 
 
 
 **2.3 Android 常用知识点**
 
- 10. [android Shape及动画效果使用总结](http://crazyandcoder.github.io/2016/04/03/android%20Shape%E5%8F%8A%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
- 11. [android imageview研究总结](http://crazyandcoder.github.io/2016/04/16/android%20imageview%E7%A0%94%E7%A9%B6%E6%80%BB%E7%BB%93/)
- 12. [android 关于Bitmap压缩处理解析](http://crazyandcoder.github.io/2016/12/14/android%20%E5%85%B3%E4%BA%8EBitmap%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E8%A7%A3%E6%9E%90/)
- 13. [Android输入键盘隐藏解决方案](http://crazyandcoder.github.io/2017/09/01/Android%E8%BE%93%E5%85%A5%E9%94%AE%E7%9B%98%E9%9A%90%E8%97%8F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
+ 1. [android Shape及动画效果使用总结](http://crazyandcoder.github.io/2016/04/03/android%20Shape%E5%8F%8A%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
+ 2. [android imageview研究总结](http://crazyandcoder.github.io/2016/04/16/android%20imageview%E7%A0%94%E7%A9%B6%E6%80%BB%E7%BB%93/)
+ 3. [android 关于Bitmap压缩处理解析](http://crazyandcoder.github.io/2016/12/14/android%20%E5%85%B3%E4%BA%8EBitmap%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E8%A7%A3%E6%9E%90/)
+ 4. [Android输入键盘隐藏解决方案](http://crazyandcoder.github.io/2017/09/01/Android%E8%BE%93%E5%85%A5%E9%94%AE%E7%9B%98%E9%9A%90%E8%97%8F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
 
 
 
