@@ -1,6 +1,6 @@
 ### **说明** 
 
-> 更新时间 2017.12.19
+> 更新时间 2017.12.25
 
 本页面展示个人的知识体系总结，详情请查看博客 [——> 传送门](http://crazyandcoder.github.io/)
 
@@ -73,7 +73,7 @@
  6. [Android 事件分发机制源码解析-view层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-view%E5%B1%82/)
  7. [android 事件分发机制源码解析-ViewGroup层](http://crazyandcoder.github.io/2017/12/14/Android-%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-ViewGroup%E5%B1%82/)
  8. [Android Context源码分析](http://crazyandcoder.github.io/2017/12/19/Android-Context%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
-
+ 9. [Android Activity启动流程简要分析](http://crazyandcoder.tech/2017/12/25/Android-Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E7%AE%80%E8%A6%81%E5%88%86%E6%9E%90/)
 
 
 
