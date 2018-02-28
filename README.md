@@ -47,7 +47,7 @@
 
  1. [Java设计模式概述](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%A6%82%E8%BF%B0/)
  2. [Java设计模式-工厂方法模式](http://crazyandcoder.github.io/2017/12/14/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/)
-
+ 3. [Java设计模式-代理模式](http://crazyandcoder.tech/2018/02/28/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/)
 
 ### **2，Android部分**
 
