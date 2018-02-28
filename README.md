@@ -117,9 +117,10 @@
 
  1. [杭州找Android工作的点点滴滴](http://crazyandcoder.github.io/2017/05/22/%E6%9D%AD%E5%B7%9E%E6%89%BEAndroid%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%82%B9%E7%82%B9%E6%BB%B4%E6%BB%B4/)
  2. [Android面试题](https://github.com/crazyandcoder/job_interview)
- 3. [hexo+github搭建属于自己的博客系统](http://crazyandcoder.github.io/2017/12/14/hexo-github%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/)
- 4. [hexo 博客搭建—windows系统配置过程](http://crazyandcoder.github.io/2016/04/01/hexo%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E2%80%94windows%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E8%BF%87%E7%A8%8B/)
- 5. [hexo 博客搭建—在不同的PC设备之间同步博客](http://crazyandcoder.github.io/2016/03/10/hexo%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E2%80%94%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84PC%E8%AE%BE%E5%A4%87%E4%B9%8B%E9%97%B4%E5%90%8C%E6%AD%A5%E5%8D%9A%E5%AE%A2/)
+ 3. [java基础面试题](https://github.com/crazyandcoder/blog_backups/blob/master/articles/Java%E5%9F%BA%E7%A1%80.md)
+ 4. [hexo+github搭建属于自己的博客系统](http://crazyandcoder.github.io/2017/12/14/hexo-github%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/)
+ 5. [hexo 博客搭建—windows系统配置过程](http://crazyandcoder.github.io/2016/04/01/hexo%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E2%80%94windows%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E8%BF%87%E7%A8%8B/)
+ 6. [hexo 博客搭建—在不同的PC设备之间同步博客](http://crazyandcoder.github.io/2016/03/10/hexo%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E2%80%94%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84PC%E8%AE%BE%E5%A4%87%E4%B9%8B%E9%97%B4%E5%90%8C%E6%AD%A5%E5%8D%9A%E5%AE%A2/)
 
 
 
