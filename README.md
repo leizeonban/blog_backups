@@ -41,6 +41,8 @@
  5. [java 关键字synchronize学习](http://crazyandcoder.github.io/2016/10/14/java%20synchronize%E5%AD%A6%E4%B9%A0/)
  6. [java http学习总结](http://crazyandcoder.github.io/2016/10/20/android%20http%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
  7. [类加载器classloader-java简析](http://crazyandcoder.tech/2018/02/27/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8classloader-java%E7%AE%80%E6%9E%90/)
+ 8. [Java设计模式-代理模式](http://blog.csdn.net/liji_xc/article/details/79400768)
+ 9. [Java反射简单学习](http://blog.csdn.net/liji_xc/article/details/79454768)
  
  
 #### **1.3，设计模式Java实现**
