@@ -43,7 +43,7 @@
  7. [类加载器classloader-java简析](http://crazyandcoder.tech/2018/02/27/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8classloader-java%E7%AE%80%E6%9E%90/)
  8. [Java设计模式-代理模式](http://blog.csdn.net/liji_xc/article/details/79400768)
  9. [Java反射简单学习](http://blog.csdn.net/liji_xc/article/details/79454768)
- 10.[Java注解简单学习](http://crazyandcoder.tech/2018/03/08/Java-%E6%B3%A8%E8%A7%A3%E7%AE%80%E5%8D%95%E5%AD%A6%E4%B9%A0/)
+10.[Java注解简单学习](http://crazyandcoder.tech/2018/03/08/Java-%E6%B3%A8%E8%A7%A3%E7%AE%80%E5%8D%95%E5%AD%A6%E4%B9%A0/)
  
  
 #### **1.3，设计模式Java实现**
