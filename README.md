@@ -25,10 +25,11 @@
  2.  [Java集合框架分析-概述](http://crazyandcoder.github.io/2017/03/23/Java-%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-%E6%A6%82%E8%BF%B0/)
  2. [Java集合框架分析-LinkedHashMap](http://crazyandcoder.github.io/2017/03/15/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-LinkedHashMap/)
  3. [java集合框架分析-HashMap](http://crazyandcoder.github.io/2017/03/15/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-HashMap/)
- 4. [Java集合框架分析-ArrayList](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-ArrayList/)
- 5. [Java集合框架分析-LinkedList](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-LinkedList/)
- 6. [Java集合框架分析-HashSet](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-HashSet/)
- 7. [Java集合框架分析-Iterator](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-Iterator/)
+ 4. [java集合框架分析-HashMap(加载因子及初始容量深入分析)]( https://github.com/crazyandcoder/blog_backups/blob/master/articles/Java%20HashMap%E4%B8%AD%E7%9A%84%E5%8A%A0%E8%BD%BD%E5%9B%A0%E5%AD%90%E5%8F%8A%E5%88%9D%E5%A7%8B%E5%AE%B9%E9%87%8F%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.md)
+ 5. [Java集合框架分析-ArrayList](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-ArrayList/)
+ 6. [Java集合框架分析-LinkedList](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-LinkedList/)
+ 7. [Java集合框架分析-HashSet](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-HashSet/)
+ 8. [Java集合框架分析-Iterator](http://crazyandcoder.github.io/2017/03/23/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90-Iterator/)
 
 
 
@@ -43,6 +44,7 @@
  7. [类加载器classloader-java简析](http://crazyandcoder.tech/2018/02/27/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8classloader-java%E7%AE%80%E6%9E%90/)
  8. [Java设计模式-代理模式](http://blog.csdn.net/liji_xc/article/details/79400768)
  9. [Java反射简单学习](http://blog.csdn.net/liji_xc/article/details/79454768)
+ 
 10.[Java注解简单学习](http://crazyandcoder.tech/2018/03/08/Java-%E6%B3%A8%E8%A7%A3%E7%AE%80%E5%8D%95%E5%AD%A6%E4%B9%A0/)
  
  
