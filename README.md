@@ -1,10 +1,10 @@
 ### **说明** 
 
-> 更新时间 2018.02.06
+> 更新时间 2018.04.09
 
 本页面展示个人的知识体系总结，详情请查看博客 [——> 传送门](http://crazyandcoder.github.io/)
 
-每天学习，每天code。
+**每天学习，每天code。**
 
 
 
@@ -43,9 +43,8 @@
  6. [java http学习总结](http://crazyandcoder.github.io/2016/10/20/android%20http%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
  7. [类加载器classloader-java简析](http://crazyandcoder.tech/2018/02/27/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8classloader-java%E7%AE%80%E6%9E%90/)
  8. [Java设计模式-代理模式](http://blog.csdn.net/liji_xc/article/details/79400768)
- 9. [Java反射简单学习](http://blog.csdn.net/liji_xc/article/details/79454768)
- 
-10.[Java注解简单学习](http://crazyandcoder.tech/2018/03/08/Java-%E6%B3%A8%E8%A7%A3%E7%AE%80%E5%8D%95%E5%AD%A6%E4%B9%A0/)
+ 9. [Java反射简单学习](http://blog.csdn.net/liji_xc/article/details/79454768) 
+10. [Java注解简单学习](http://crazyandcoder.tech/2018/03/08/Java-%E6%B3%A8%E8%A7%A3%E7%AE%80%E5%8D%95%E5%AD%A6%E4%B9%A0/)
  
  
 #### **1.3，设计模式Java实现**
@@ -101,7 +100,7 @@
  7. [ Android网络框架volley学习(七)调度器NetworkDispatcher简析](http://blog.csdn.net/liji_xc/article/details/79169786)
  8. [Android网络框架volley学习(八)缓存Cache简析](http://blog.csdn.net/liji_xc/article/details/79172733)
  9. [Android网络框架volley学习(九)请求结果Response<T>简析](http://blog.csdn.net/liji_xc/article/details/79191934)
- 10. [ Android网络框架volley学习(十)分发结果ResponseDelivery简析](http://blog.csdn.net/liji_xc/article/details/79192645)
+10. [ Android网络框架volley学习(十)分发结果ResponseDelivery简析](http://blog.csdn.net/liji_xc/article/details/79192645)
  
 ##### **2.3.2，okhttp3.2源码分析**
  1. [OKHttp源码解析(一) OkHttp整体流程](http://blog.csdn.net/liji_xc/article/details/79192907)
