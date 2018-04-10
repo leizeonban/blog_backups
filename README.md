@@ -114,6 +114,7 @@
  2. [android imageview研究总结](http://crazyandcoder.github.io/2016/04/16/android%20imageview%E7%A0%94%E7%A9%B6%E6%80%BB%E7%BB%93/)
  3. [android 关于Bitmap压缩处理解析](http://crazyandcoder.github.io/2016/12/14/android%20%E5%85%B3%E4%BA%8EBitmap%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E8%A7%A3%E6%9E%90/)
  4. [Android输入键盘隐藏解决方案](http://crazyandcoder.github.io/2017/09/01/Android%E8%BE%93%E5%85%A5%E9%94%AE%E7%9B%98%E9%9A%90%E8%97%8F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
+ 5. [android基础知识点学习总结](https://github.com/crazyandcoder/blog_backups/blob/master/articles/android%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
 
 
 
