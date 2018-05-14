@@ -1,18 +1,7 @@
 ### **说明** 
 
-> 更新时间 2018.04.09
 
 本页面展示个人的知识体系总结，详情请查看博客 [——> 传送门](http://crazyandcoder.github.io/)
-
-**每天学习，每天code。**
-
-
-
-
-### **关于作者**
-
-[GitHub](https://github.com/crazyandcoder)、[个人博客](http://crazyandcoder.github.io/)、[掘金](https://juejin.im/user/56b96af96240b8005865df59)、[CSDN](http://blog.csdn.net/liji_xc)、[sina微博](https://weibo.com/crazyandcoder?sudaref=crazyandcoder.github.io&display=0&retcode=6102&is_all=1)...
-
 
 ## **知识体系**
 
